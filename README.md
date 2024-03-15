@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 <table>
       <img height="130px" align="left" alt="webDev's Github Languages"
@@ -21,3 +20,5 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
+
+-->
