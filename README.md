@@ -50,23 +50,23 @@
 <!-- App links -->
 <tr>
 <td valign="top" width="16.6%">
-      <p align="center"><a href="https://github.com/lestec-al/afit">More</a></p>
-      <p align="center"><a href="https://drive.google.com/drive/folders/1ayZQKcDwIqp7Y204yxUy0t49WzwOjgGB?usp=drive_link">APK (afit2 ver)</a></p>
+      <p align="center"><a href="https://github.com/lestec-al/afit">Read more (AFit)</a></p>
+      <p align="center"><a href="https://lestec-al.github.io/lestec-al/non-github-apps-readme#afit-lite-android">Read more (AFit Lite)</a></p>
 </td>
 <td valign="top" width="16.6%">
-      <p align="center"><a href="https://github.com/lestec-al/a-notes">More</a></p>
+      <p align="center"><a href="https://github.com/lestec-al/a-notes">Read more</a></p>
 </td>
 <td valign="top" width="16.6%">
-      <p align="center"><a href="https://github.com/lestec-al/eventify">More</a></p>
+      <p align="center"><a href="https://github.com/lestec-al/eventify">Read more</a></p>
 </td>
 <td valign="top" width="16.6%">
-      <p align="center"><a href="https://github.com/lestec-al/files">More</a></p>
+      <p align="center"><a href="https://github.com/lestec-al/files">Read more</a></p>
 </td>
 <td valign="top" width="16.6%">
-      <p align="center"><a href="https://drive.google.com/drive/folders/1ayZQKcDwIqp7Y204yxUy0t49WzwOjgGB?usp=drive_link">APK</a></p>
+      <p align="center"><a href="https://lestec-al.github.io/lestec-al/non-github-apps-readme#minesweeper">Read more</a></p>
 </td>
 <td valign="top" width="16.6%">
-      <p align="center"><a href="https://github.com/lestec-al/isometric-fantasy-game">More</a></p>
+      <p align="center"><a href="https://github.com/lestec-al/isometric-fantasy-game">Read more</a></p>
 </td>
 </tr>
 </table>
