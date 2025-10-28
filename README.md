@@ -70,3 +70,5 @@
 </td>
 </tr>
 </table>
+
+### <a href="https://lestec-al.github.io/lestec-al/privacy-policy">Apps Privacy Policy</a>
