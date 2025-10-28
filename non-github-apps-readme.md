@@ -10,7 +10,7 @@ The basic features are almost the same compared to the previous-generation app.
 
 [Get APK](https://drive.google.com/drive/folders/1ayZQKcDwIqp7Y204yxUy0t49WzwOjgGB?usp=drive_link)
 
-# Minesweeper
+# Minesweeper Android
 
 <img src="https://github.com/lestec-al/lestec-al/raw/main/pictures/minesweeper_screens.png"/>
 
