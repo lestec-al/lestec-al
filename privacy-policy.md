@@ -10,11 +10,13 @@ If you choose to use my Apps, then you agree to the collection and use of inform
 
 For a better experience, while using my Apps, I may require you to provide certain information. The information that I request will be retained on your device and is not collected by me in any way.
 
+Some of my apps use the Google Drive API for cloud sync purposes. If you choose to do a sync, your data will be stored in your Google Drive storage. I don't have any access to it.
+
 The app does use third-party services that may collect information used to identify you. Or, if you choose to do so, third-party services will be able to save information from apps (and that information will be accessible by them).
 
 Link to the privacy policy of third-party service providers used by the app
 
-- [Google Play Services](https://policies.google.com/privacy)
+- [Google Services](https://policies.google.com/privacy)
 
 ### Cookies
 
@@ -48,4 +50,4 @@ These Apps may contain links to other sites. If you click on a third-party link,
 
 I may update the Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes.
 
-This policy is effective as of __2025-10-25__
+This policy is effective as of __2025-10-28__
