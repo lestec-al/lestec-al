@@ -24,7 +24,7 @@
 </td>
 <td valign="top" width="16.6%">
       <h3 align="center">Eventify</h3>
-      <p align="center"><img src="https://github.com/lestec-al/lestec-al/raw/main/pictures/eventify.png"/></p>
+      <p align="center"><img src="https://github.com/lestec-al/lestec-al/raw/main/pictures/eventify1.png"/></p>
       <p align="center">An app to quickly add repeatable events to a calendar.</p>
       <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
