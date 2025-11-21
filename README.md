@@ -63,7 +63,7 @@
       <p align="center"><a href="https://github.com/lestec-al/files">Read more</a></p>
 </td>
 <td valign="top" width="16.6%">
-      <p align="center"><a href="https://lestec-al.github.io/lestec-al/non-github-apps-readme#minesweeper">Read more</a></p>
+      <p align="center"><a href="https://lestec-al.github.io/lestec-al/non-github-apps-readme#minesweeper-android">Read more</a></p>
 </td>
 <td valign="top" width="16.6%">
       <p align="center"><a href="https://github.com/lestec-al/isometric-fantasy-game">Read more</a></p>
