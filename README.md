@@ -18,7 +18,7 @@
 </td>
 <td valign="top" width="16.6%">
       <h3 align="center">AFit Lite</h3>
-      <p align="center"><img src="https://github.com/lestec-al/lestec-al/raw/main/pictures/afit_lite1.png"/></p>
+      <p align="center"><img src="https://github.com/lestec-al/lestec-al/raw/main/pictures/afit_lite.png"/></p>
       <p align="center">New & different version of a workout & statistics log.</p>
       <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
@@ -30,7 +30,7 @@
 </td>
 <td valign="top" width="16.6%">
       <h3 align="center">Eventify</h3>
-      <p align="center"><img src="https://github.com/lestec-al/lestec-al/raw/main/pictures/eventify1.png"/></p>
+      <p align="center"><img src="https://github.com/lestec-al/lestec-al/raw/main/pictures/eventify.png"/></p>
       <p align="center">An app to quickly add repeatable events to a calendar.</p>
       <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
@@ -42,13 +42,13 @@
 </td>
 <td valign="top" width="16.6%">
       <h3 align="center">Minesweeper</h3>
-      <p align="center"><img src="https://github.com/lestec-al/lestec-al/raw/main/pictures/minesweeper1.png"/></p>
+      <p align="center"><img src="https://github.com/lestec-al/lestec-al/raw/main/pictures/minesweeper.png"/></p>
       <p align="center">A game, where you need to find and mark all the mines.</p>
       <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td valign="top" width="16.6%">
       <h3 align="center">Adventurer</h3>
-      <p align="center"><img src="https://github.com/lestec-al/lestec-al/raw/main/pictures/fantasy_game1.png"/></p>
+      <p align="center"><img src="https://github.com/lestec-al/lestec-al/raw/main/pictures/fantasy_game.png"/></p>
       <p align="center">A game (Android & PC) with combat, loot & exploration!</p>
       <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>

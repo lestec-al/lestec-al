@@ -1,6 +1,6 @@
 # AFit Lite Android
 
-<img src="https://github.com/lestec-al/lestec-al/raw/main/pictures/afit2_screens.png"/>
+<img src="https://github.com/lestec-al/lestec-al/raw/main/pictures/afit_lite_screens.png"/>
 
 AFit Lite is the next-generation app that allows you to record your workouts🏋️ and has good statistics📈 to analyze your progress. You can also create your own statistics and simply add entries to it.
 
