@@ -18,7 +18,7 @@
 </td>
 <td valign="top" width="16.6%">
       <h3 align="center">AFit Lite</h3>
-      <p align="center"><img src="https://github.com/lestec-al/lestec-al/raw/main/pictures/afit_lite.png"/></p>
+      <p align="center"><img src="https://github.com/lestec-al/lestec-al/raw/main/pictures/afit_lite1.png"/></p>
       <p align="center">New & different version of a workout & statistics log.</p>
       <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
