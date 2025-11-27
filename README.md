@@ -1,4 +1,4 @@
-### Android Apps
+# Android Apps
 <!--
 <img height="130px" align="left" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lestec-al&layout=compact&theme=vision-friendly-dark" />
 -->
@@ -71,5 +71,3 @@
 </td>
 </tr>
 </table>
-
-### <a href="https://lestec-al.github.io/lestec-al/privacy-policy">Apps Privacy Policy</a>

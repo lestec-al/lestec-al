@@ -25,6 +25,3 @@ Minesweeper is a game in which you need to find all the mined cells. A game for 
 - ☯️ Dark / light themes (depending on device settings)
 
 [Get APK](https://drive.google.com/drive/folders/1ayZQKcDwIqp7Y204yxUy0t49WzwOjgGB?usp=drive_link)
-
-
-### <a href="https://lestec-al.github.io/lestec-al/privacy-policy">Apps Privacy Policy</a>
