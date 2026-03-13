@@ -17,7 +17,7 @@ The basic features are almost the same compared to the previous-generation app.
 <img src="https://github.com/lestec-al/lestec-al/raw/main/pictures/dungeonsweeper_screens.png"/>
 
 #### 2 versions are available:
-🧠 Classic Minesweeper - The original brain trainer with clean design and customizable colors (on screenshots).
+🧠 Classic Minesweeper - The original brain trainer with clean design and customizable colors.
 
 ⚔️ Dungeonsweeper - Minesweeper meets fantasy! Clear dungeon tiles, avoid traps.
 
