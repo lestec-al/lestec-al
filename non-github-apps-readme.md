@@ -14,7 +14,12 @@ The basic features are almost the same compared to the previous-generation app.
 
 <img src="https://github.com/lestec-al/lestec-al/raw/main/pictures/minesweeper_screens.png"/>
 
-Minesweeper is a game in which you need to find all the mined cells. A game for training the brain🧠, developing thinking💡, and, of course, for fun😜.
+<img src="https://github.com/lestec-al/lestec-al/raw/main/pictures/dungeonsweeper_screens.png"/>
+
+#### 2 versions are available:
+🧠 Classic Minesweeper - The original brain trainer with clean design and customizable colors (on screenshots).
+
+⚔️ Dungeonsweeper - Minesweeper meets fantasy! Clear dungeon tiles, avoid traps.
 
 #### Features:
 - 📊 Statistics
@@ -22,6 +27,6 @@ Minesweeper is a game in which you need to find all the mined cells. A game for 
 - 💡 Hints
 - 🟨 Customizable tile color (to almost any color)
 - ⚙️ Settings (but with minimal values): board size, number of mines
-- ☯️ Dark / light themes (depending on device settings)
+- ☯️ Dark / light themes (depending on device settings, classic version only)
 
-[Get APK](https://drive.google.com/drive/folders/1ayZQKcDwIqp7Y204yxUy0t49WzwOjgGB?usp=drive_link)
+[Get APKs](https://drive.google.com/drive/folders/1ayZQKcDwIqp7Y204yxUy0t49WzwOjgGB?usp=drive_link)
