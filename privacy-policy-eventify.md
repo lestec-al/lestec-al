@@ -20,3 +20,6 @@ The App allows you to manually import or export your data to/from your device’
 
 ### Changes to This Privacy Policy
 I may update this Privacy Policy from time to time. You are advised to review this page periodically for any changes. Changes are effective immediately after posting.
+
+### Source Code
+Eventify is open source under the MIT license. The version on GitHub may differ slightly from the Play Store version due to build configurations. The source code is available [here](https://github.com/lestec-al/eventify).
