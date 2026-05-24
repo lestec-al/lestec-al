@@ -10,11 +10,6 @@
       <p align="center">A minimalistic, customizable workout & statistics log.</p>
 </td>
 <td valign="top">
-      <h3 align="center">AFit Lite</h3>
-      <p align="center"><img src="https://github.com/lestec-al/lestec-al/raw/main/pictures/afit_lite.png"/></p>
-      <p align="center">New & different version of a workout & statistics log.</p>
-</td>
-<td valign="top">
       <h3 align="center">ANotes</h3>
       <p align="center"><img src="https://github.com/lestec-al/lestec-al/raw/main/pictures/anotes.png"/></p>
       <p align="center">A cross-platform notes app for Android & PC with sync.</p>
@@ -25,14 +20,14 @@
       <p align="center">An app to quickly add repeatable events to a calendar.</p>
 </td>
 <td valign="top">
-      <h3 align="center">Files</h3>
-      <p align="center"><img src="https://github.com/lestec-al/lestec-al/raw/main/pictures/files.png"/></p>
-      <p align="center">A simple file manager for Android & PC (classic, CLI).</p>
-</td>
-<td valign="top">
       <h3 align="center">Minesweeper</h3>
       <p align="center"><img src="https://github.com/lestec-al/lestec-al/raw/main/pictures/minesweeper.png"/></p>
       <p align="center">A game, where you need to find and mark all the mines.</p>
+</td>
+<td valign="top">
+      <h3 align="center">Files</h3>
+      <p align="center"><img src="https://github.com/lestec-al/lestec-al/raw/main/pictures/files.png"/></p>
+      <p align="center">A simple file manager for Android & PC (classic, CLI).</p>
 </td>
 <td valign="top">
       <h3 align="center">Adventurer</h3>
@@ -42,31 +37,30 @@
 </tr>
 <tr>
 <td valign="top">
-      <p align="center"><a href="https://github.com/lestec-al/afit">Read more</a></p>
+      <p align="center"><a href="https://play.google.com/store/apps/details?id=com.yurhel.alex.afit">Google Play (modern ver)</a></p>
+      <p align="center"><a href="https://github.com/lestec-al/afit">GitHub (legacy ver)</a></p>
       <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td valign="top">
-      <p align="center"><a href="https://lestec-al.github.io/lestec-al/non-github-apps-readme#afit-lite-android">Read more</a></p>
+      <p align="center"><a href="https://github.com/lestec-al/a-notes">GitHub</a></p>
       <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td valign="top">
-      <p align="center"><a href="https://github.com/lestec-al/a-notes">Read more</a></p>
+      <p align="center"><a href="https://play.google.com/store/apps/details?id=com.lestec.eventify">Google Play</a></p>
+      <p align="center"><a href="https://github.com/lestec-al/eventify">GitHub</a></p>
       <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td valign="top">
-      <p align="center"><a href="https://github.com/lestec-al/eventify">Read more</a></p>
+      <p align="center"><a href="https://play.google.com/store/apps/details?id=com.yurhel.alex.minesweeper">Google Play (fantasy dungeonsweeper)</a></p>
+      <p align="center"><a href="https://drive.google.com/drive/folders/1ayZQKcDwIqp7Y204yxUy0t49WzwOjgGB?usp=drive_link">APK (classic minesweeper)</a></p>
       <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td valign="top">
-      <p align="center"><a href="https://github.com/lestec-al/files">Read more</a></p>
+      <p align="center"><a href="https://github.com/lestec-al/files">GitHub</a></p>
       <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td valign="top">
-      <p align="center"><a href="https://lestec-al.github.io/lestec-al/non-github-apps-readme#minesweeper-android">Read more</a></p>
-      <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-</td>
-<td valign="top">
-      <p align="center"><a href="https://github.com/lestec-al/isometric-fantasy-game">Read more</a></p>
+      <p align="center"><a href="https://github.com/lestec-al/isometric-fantasy-game">GitHub</a></p>
       <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 </tr>
