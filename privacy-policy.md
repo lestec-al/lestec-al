@@ -1,5 +1,5 @@
 # Privacy Policy
-Effective date: May 18, 2026
+Effective date: May 27, 2026
 
 This Privacy Policy applies to all free mobile applications ("Apps") published by ALIAKSEI YURHEL, including but not limited to AFit, Minesweeper, ANotes (unless otherwise stated for a specific app).
 
@@ -39,3 +39,6 @@ These Apps may contain links to other sites. If you click on a third-party link,
 
 ### Changes to This Privacy Policy
 I may update this Privacy Policy from time to time. You are advised to review this page periodically for any changes. Changes are effective immediately after posting.
+
+### ANotes Source Code
+ANotes is open source under the MIT license. The version on GitHub may differ slightly from the Play Store version due to build configurations. The source code is available [here](https://github.com/lestec-al/a-notes).
