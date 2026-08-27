@@ -66,3 +66,5 @@
 </td>
 </tr>
 </table>
+
+## <a href="https://ko-fi.com/lestec">Support the developer</a>
